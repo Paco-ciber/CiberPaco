@@ -1,11 +1,11 @@
 body {
   margin: 0;
-  font-family: Cursive;
+  font-family: Lucida Console, Times New Roman, Cursive;
   background-color: #2556f6;
 }
 
 h1 {
-  color: rgb(51, 255, 0);
+  color: rgb(68, 255, 0);
 }
 
 h2 {
@@ -28,7 +28,7 @@ header {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
   gap: 20px;
-  padding: 30px;
+  padding: 15px;
 }
 
 .image-card {
